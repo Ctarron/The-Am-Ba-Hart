@@ -13,7 +13,7 @@ A 30-45 minute singleplayer adventure for vanilla Minecraft.
 
 ## Downloads
 
-[![Map](https://img.shields.io/github/downloads/Ctarron/The-Am-Ba-Hart/The_Am-Ba_Hart.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/The-Am-Ba-Hart/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/The-Am-Ba-Hart/The_Am-Ba_Hart_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/The-Am-Ba-Hart/releases/latest)
+[![Map](https://img.shields.io/github/downloads/Ctarron/The-Am-Ba-Hart/The_Am-Ba_Hart.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/The-Am-Ba-Hart/releases/latest)
 
 ## Translations
 - 🇺🇸 English
