@@ -18,3 +18,4 @@ A 30-45 minute singleplayer adventure for vanilla Minecraft.
 ## Translations
 - 🇺🇸 English
 - 🇪🇸 Spanish
+- 🇰🇷 Korean (by TheOnlyMann)
